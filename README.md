@@ -1,9 +1,14 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link-here.com/banner.png" alt="Banner" width="100%">
+  <img src="https://your-image-link-here.com/banner.png" alt="Cybersecurity GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Welcome to My Cyber Security Portfolio 👨‍💻 🔒</h1>
+<h1 align="center">👋 Welcome to My Cyber Security Portfolio 🔒🚀</h1>
+
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://your-image-link-here.com/profile-picture.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%;">
+</p>
 
 <p align="center">
   <strong>Master's Student in Cyber Security | Secure Software Architect | Threat Modeler</strong>
@@ -21,15 +26,25 @@
 ---
 
 ## 🚀 About Me  
-👋 Hi there! I'm Femi Olwe Master's student specialising in **Cyber Security** with expertise in **secure software design, risk assessment, penetration testing, and threat modeling**.  
+👋 Hi! I'm **[Your Name]**, a **Master’s student specializing in Cyber Security**, passionate about **secure software architecture, penetration testing, and risk assessment**.  
 
 📌 **What I Do:**  
-✔ Secure **Online Shopping System (OSS) Development**  
-✔ **Threat Modeling & Cyber Risk Analysis**  
-✔ **Cybersecurity Investment Research & Impact Assessment**  
-✔ Secure Software Development following **OWASP & STRIDE**  
+✔ Develop **secure software solutions** *(Online Shopping Systems, Risk Management Apps)*  
+✔ Perform **Threat Modeling (STRIDE, DFDs, Attack Trees)**  
+✔ Conduct **Penetration Testing** on web applications  
+✔ Research **Cybersecurity Investments & Risk Analysis**  
 
 📍 **Current Research:** *Cybersecurity Investments & Secure Object-Oriented System Design*  
+
+---
+
+## 🎓 Certifications & Credentials  
+
+✅ **Certified Ethical Hacker (CEH)**  
+✅ **Offensive Security Certified Professional (OSCP)**  
+✅ **Certified Information Systems Security Professional (CISSP)**  
+✅ **AWS Certified Security – Specialty**  
+✅ **Microsoft Cybersecurity Architect (SC-100)**  
 
 ---
 
@@ -37,6 +52,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Programming-Python-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Programming-Java-red?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Framework-Flask-orange?style=for-the-badge&logo=flask">
   <img src="https://img.shields.io/badge/Security-Kali_Linux-darkgreen?style=for-the-badge&logo=kali-linux">
   <img src="https://img.shields.io/badge/Threat_Modeling-STRIDE-purple?style=for-the-badge">
@@ -48,13 +64,13 @@
 
 ## 📂 **Completed Projects**  
 
-### 🛍 **Secure Online Shopping System (OSS)**
-📌 **Objective:** Developing a **secure online shopping system** for Ferese, focusing on cybersecurity threats and secure architecture.  
+### 🛍 **Secure Online Shopping System (OSS) for Ferese**
+📌 **Objective:** Develop a **secure e-commerce platform** for Ferese, mitigating cyber threats.  
 🔹 **Key Features:**  
-✅ Secure Authentication & Access Control  
+✅ Secure Authentication (MFA, JWT, Role-Based Access)  
 ✅ Threat Modeling using **STRIDE & Attack Trees**  
-✅ UML Diagrams for Secure System Design  
-✅ OWASP-based Security Implementation  
+✅ UML Diagrams for Secure Software Design  
+✅ OWASP Top 10 Compliance  
 
 🛠 **Tech Stack:** `Python` | `Flask/Django` | `MySQL` | `Threat Modeling` | `OWASP`  
 
@@ -63,11 +79,11 @@
 ---
 
 ### 📊 **Cybersecurity Investment & Risk Analysis**
-📌 **Objective:** Evaluating the economic benefits, risks, and ROI of **cybersecurity investment** for businesses.  
+📌 **Objective:** Analyze **cybersecurity investment impact on businesses**.  
 🔹 **Key Insights:**  
 ✅ Cost-Benefit Analysis of Security Investments  
 ✅ Real-World Case Studies on Cybersecurity Breaches  
-✅ Strategies for Enhancing Cybersecurity ROI  
+✅ ROI & Cyber Risk Mitigation Strategies  
 
 🛠 **Tech Stack:** `Python` | `Pandas` | `Jupyter Notebook` | `Risk Management`  
 
@@ -76,7 +92,7 @@
 ---
 
 ### 🛡 **Threat Modeling & Secure System Design**
-📌 **Objective:** Using **Threat Modeling Techniques** to analyze security risks and vulnerabilities in enterprise systems.  
+📌 **Objective:** Identify and mitigate security threats using **Threat Modeling Techniques**.  
 🔹 **Methodologies Used:**  
 ✅ **STRIDE Framework** for Threat Analysis  
 ✅ **Data Flow Diagrams (DFDs)** for Threat Visualization  
@@ -88,12 +104,30 @@
 
 ---
 
+## 🔍 Threat Modeling - **STRIDE Analysis**  
+Below is a sample **Data Flow Diagram (DFD) & STRIDE Table** used in secure software design.  
+
+### 🔹 **DFD: Secure Payment Processing Flow**
+![DFD Diagram](https://your-image-link-here.com/dfd.png)
+
+### 🔹 **STRIDE Threat Analysis Table**
+| Threat Type | Example in OSS | Mitigation Strategy |
+|------------|--------------|----------------|
+| **Spoofing** | Fake user login | Implement MFA |
+| **Tampering** | SQL injection attack | Use prepared statements |
+| **Repudiation** | Denial of transaction | Implement secure logging |
+| **Information Disclosure** | Data leaks | Encrypt sensitive data |
+| **Denial of Service** | Server overload | Implement rate limiting |
+| **Elevation of Privilege** | Admin privilege escalation | Enforce least privilege |
+
+---
+
 ### 🔐 **Penetration Testing for Web Applications**
-📌 **Objective:** Conducted penetration testing to identify security vulnerabilities in web applications.  
+📌 **Objective:** Identify security vulnerabilities in web applications through **ethical hacking techniques**.  
 🔹 **Key Tasks:**  
-✅ Performed **SQL Injection & XSS Testing**  
-✅ Used **Burp Suite & OWASP ZAP** for security scans  
-✅ Reported vulnerabilities and mitigation strategies  
+✅ Performed **SQL Injection, XSS, CSRF Testing**  
+✅ Used **Burp Suite & OWASP ZAP** for vulnerability scanning  
+✅ Reported vulnerabilities & mitigation strategies  
 
 🛠 **Tools Used:** `Burp Suite` | `OWASP ZAP` | `Kali Linux` | `Metasploit`  
 
